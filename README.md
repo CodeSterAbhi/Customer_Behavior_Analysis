@@ -17,7 +17,8 @@ Non-subscribers	73.0%
 
 
 The first three values are supported by the uploaded notebook output and dashboard. Subscription shares are transcribed from the dashboard screenshot. Category chart labels below are rounded visual values and should be reconciled with the editable Power BI model before being treated as exact.
-Key findings
+
+## Key findings
 - Clothing leads the displayed category revenue chart: approximately 104K, followed by Accessories at 74K, Footwear at 36K, and Outerwear at 19K.
 - The average purchase amount is about $59.76: the notebook summary reports a mean of $59.764 and a median of $60, with observed purchase amounts between $20 and $100.
 - Subscription status is imbalanced in the dashboard: 27% Yes versus 73% No. This provides a useful baseline for customer segmentation, but does not show that subscription causes higher spending.
