@@ -1,7 +1,8 @@
-Customer Sales Analysis
+# Customer Sales Analysis
 An end-to-end customer shopping behaviour analysis using SQL, Python (Jupyter Notebook), and Power BI. The project examines purchase amounts, product categories, subscription status, reviews, discounts, shipping types, previous purchases, and age-group patterns.
 
 Tools: MySQL · SQL · Python · Pandas · Jupyter Notebook · Power BI
+![Customer Behavior Analysis Dashboard](DashboardScreenshot.jpeg)
 
 Quick links: [Full report (PDF)](Customer_Sales_Analysis_Report.pdf) · [Customer Behavior Dashboard](Customer_Behavior_Dashboard.pbix) · [Python notebook](EDA.ipynb) · [SQL queries](SQL_Queries.sql)
 Business problem
